@@ -22,30 +22,35 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Blog Home",
-        "link": "https://heyan.site:8001/",
-        "icon": "reco-blog", 
-        target:'_self' 
-      },
-      {
-        "text": "Technical Blog Home",
-        "link": "https://heyan.site:8001/index/",
-        "icon": "reco-blog",
-        target:'_self' 
-      },
-      {
         "text": "Other Blog Home",
         "link": "/",
         "icon": "reco-blog",
-        target:'_self' 
+        "target": "_self" 
       },
       {
         "text": "TimeLine",
         "link": "/timeline/",
         "icon": "reco-date",
+        "target": "_self"  
+      },
+      {
+        "text": "Blog Home",
+        "link": "https://heyan.site:8001/",
+        "icon": "reco-blog", 
+        "target": "_self" 
+      },
+      {
+        "text": "Technical Blog Home",
+        "link": "https://heyan.site:8001/index/",
+        "icon": "reco-blog",
+        "target": "_self"  
+      },
+      { 
+        text: 'Site Home', 
+        link: 'https://heyan.site/', 
+        "icon": "reco-home",
         target:'_self' 
       },
-      { text: 'Site Home', link: 'https://heyan.site/', target:'_self' },
       // {
       //   "text": "Contact",
       //   "icon": "reco-message",
