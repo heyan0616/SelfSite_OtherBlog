@@ -1,17 +1,27 @@
 ---
-title: 第一篇测试文章
-date: 2020-05-24
-sidebar: 'false'
+title: 模板文件
+date: 2020-01-01
 tags:
  - demo
 categories:
  - Demo
+author: name
 ---
 
-摘要文字
+摘要：模板文件
+
 <!-- more -->
 
-第一篇测试文章
+## 标题1
 
-with Category:Demo and tag:demo
+::: tip 模板
 
+模板文件 - 继承vuepress的语法
+
+:::
+
+文本
+
+## 标题2
+
+文本
