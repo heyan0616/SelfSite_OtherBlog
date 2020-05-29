@@ -74,14 +74,14 @@ module.exports = {
         "text": "Tag"
       }
     },
-    // "friendLink": [
-    //   {
-    //     "title": "vuepress-theme-reco",
-    //     "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-    //     "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-    //     "link": "https://vuepress-theme-reco.recoluan.com"
-    //   }
-    // ],
+    "friendLink": [
+      {
+        "title": "md5转化",
+        "desc": "加密解密工具",
+        "avatar": "https://www.cmd5.com/images/logo.png",
+        "link": "https://www.cmd5.com"
+      }
+    ],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
