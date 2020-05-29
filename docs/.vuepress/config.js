@@ -47,7 +47,7 @@ module.exports = {
       },
       { 
         text: 'Site Home', 
-        link: 'https://heyan.site/', 
+        link: 'http://heyan.site/', 
         "icon": "reco-home",
         target:'_self' 
       },
