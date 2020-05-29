@@ -1,7 +1,9 @@
 {
   "name": "other-blog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "description": "",
+  "main": "index.js",
+  "author": "",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs && sh ./builds/release.sh"
