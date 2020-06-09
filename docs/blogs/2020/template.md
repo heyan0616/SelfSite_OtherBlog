@@ -6,6 +6,7 @@ tags:
 categories:
  - Demo
 author: name
+isShowComments: false
 ---
 
 摘要：模板文件
