@@ -83,8 +83,14 @@ module.exports = {
       {
         "title": "md5转化",
         "desc": "加密解密工具",
-        "avatar": "https://www.cmd5.com/images/logo.png",
+        "logo": "https://www.cmd5.com/images/logo.png",
         "link": "https://www.cmd5.com"
+      },
+      {
+        "title": "压缩图",
+        "desc": "压缩图片大小",
+        "logo": "https://img.yasuotu.com/yasuotu/images/logo.png",
+        "link": "https://www.yasuotu.com"
       }
     ],
     "logo": "/logo.png",
