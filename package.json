@@ -6,7 +6,8 @@
   "author": "",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs && sh ./builds/release.sh"
+    "docs:build": "vuepress build docs",
+    "docs:release": "sh ./builds/release.sh"
   },
   "devDependencies": {
     "vuepress": "1.4.1",
