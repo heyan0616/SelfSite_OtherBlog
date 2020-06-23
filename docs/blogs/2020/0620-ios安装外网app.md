@@ -7,7 +7,6 @@ tags:
 categories:
  - IT
 author: Yan
-isShowComments: true
 ---
 
 ios安装外网app相关的文章：包括切换apple id，申请外区apple id等...
