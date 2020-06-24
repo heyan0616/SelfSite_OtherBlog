@@ -5,9 +5,9 @@
   "main": "index.js",
   "author": "",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:release": "sh ./builds/release.sh"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "release": "sh ./builds/release.sh"
   },
   "devDependencies": {
     "vuepress": "1.4.1",
