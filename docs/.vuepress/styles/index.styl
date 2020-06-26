@@ -8,12 +8,14 @@ h4 {
     }
 }  
 
+
+// change the siderbar css
 .sidebar-group > ul > li > a.sidebar-link{
-	font-weight: 550;
+	font-weight: 450;
 }
-.sidebar-group > ul > li > a.sidebar-link.active{
-	background-color: #d5f0e4;
-}
+//.sidebar-group > ul > li > a.sidebar-link.active{
+//	background-color: #d5f0e4;
+//}
 .sidebar .sidebar-sub-headers{
 	padding-left: 1.5rem !important;
 }
@@ -25,4 +27,38 @@ h4 {
 .sidebar-sub-headers > li > .sidebar-sub-headers > li > a.sidebar-link{
 	font-size: 0.8rem;
 	color: #9DAAB6;
+}
+a.sidebar-link{
+	padding: 0.35rem 1rem 0.35rem 2.75rem !important;
+	margin: 0 !important;
+}
+a.sidebar-link.active{
+	background: #3eaf7c;
+}
+
+// page background
+.page, .password-wrapper-in{
+	background: #f6f6f6;
+	min-height: 1000px;
+}
+.page{
+	padding-top: 3.6rem !important;
+    padding-bottom: 0rem !important;
+}
+.page .page-title{
+	background: #fff;
+}
+.content__default:not(.custom){
+    background: #fff;
+}
+.page-edit{
+	background: #fff;
+}
+.page .page-edit, .page .comments-wrapper, .page-nav{
+	background: #fff;
+}
+
+// homepage fix
+.home-blog .home-blog-wrapper{
+	padding-bottom: 1rem;
 }

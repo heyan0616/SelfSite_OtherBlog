@@ -20,6 +20,7 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    mode: 'light',
     valineConfig: {
       appId: 'xTavBda2qKQ9UpbDpdzA8w6q-MdYXbMMI',// your appId
       appKey: 'Kzo9CkrxJJ46VRdqB9aqvQ9i', // your appKey
