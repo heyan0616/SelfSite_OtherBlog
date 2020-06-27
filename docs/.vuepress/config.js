@@ -92,6 +92,12 @@ module.exports = {
         "desc": "压缩图片大小",
         "logo": "https://img.yasuotu.com/yasuotu/images/logo.png",
         "link": "https://www.yasuotu.com"
+      },
+      {
+        "title": "pdf工具集",
+        "desc": "pdf工具集合 - 格式转换，加密解密，编辑排版等...",
+        "logo": "https://smallpdf.com/build/95cf74e5f89f93cfd5f97d16fa673f05.svg",
+        "link": "https://smallpdf.com/cn"
       }
     ],
     "logo": "/logo.png",
