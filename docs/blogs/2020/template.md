@@ -13,7 +13,7 @@ isShowComments: false
 
 <!-- more -->
 
-## 标题1
+## 标题
 
 ::: tip 模板
 
@@ -21,12 +21,7 @@ isShowComments: false
 
 :::
 
-文本
+Markdown文本
 
-## 标题2
+其他配置语法参考：[测试文章](https://heyan.site:8003/blogs/2020/test.html)
 
-文本
-
-test
-
-Test3s
