@@ -1,8 +1,8 @@
 ---
-title: (转)ES 既是搜索引擎又是数据库？真的有那么全能吗？
-date: 2020-07-05
+title: 「转」ES 既是搜索引擎又是数据库？真的有那么全能吗？
+date: 2020-07-04
 tags:
- - ELK
+ - Elasticsearch
 categories:
  - Tech
 author: dbaplus社群
