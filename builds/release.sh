@@ -28,3 +28,7 @@ echo "start copy downloads folder in remote server"
 sshpass -p "Heyan0616" ssh root@heyan.site "cp -r /home/nginx_otherblog/download/ /home/nginx_otherblog/html/"
 
 echo "scp files to server complete"
+
+echo "backup project to NAS server - start"
+/Users/heyan/self/workspace/backup.sh
+echo "backup project to NAS server - complete"

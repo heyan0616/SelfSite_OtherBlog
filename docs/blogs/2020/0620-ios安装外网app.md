@@ -10,7 +10,7 @@ author: Yan
 
 ios安装外网app相关的文章：包括切换apple id，申请外区apple id等...
 
-<div style="display:flex;"><img src="https://heyan.site:8003/download/0620-ios.png" alt="" style="zoom:100%;display:block;" align="left"/></div>
+<div style="display:flex;"><img src="https://heyan.site:8003/download/2020-0620-ios.png" alt="" style="zoom:100%;display:block;" align="left"/></div>
 
 
 
@@ -134,4 +134,5 @@ china20190901@outlook.com
 
 ## 申请外网app id
 
-to be added ...
+参考文章 [申请美区App ID](/blogs/2021/0518-appstoreid.html)
+

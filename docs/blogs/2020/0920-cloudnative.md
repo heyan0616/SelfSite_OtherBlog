@@ -11,7 +11,7 @@ isShowComments: false
 
 什么是云原生？云原生包含了哪些技术？
 
-<div style="display:flex;"><img src="https://heyan.site:8003/download/0920-cloudnative.png" alt="" style="zoom:100%;display:block;" align="left"/></div>
+<div style="display:flex;"><img src="https://heyan.site:8003/download/2020-0920-cloudnative.png" alt="" style="zoom:100%;display:block;" align="left"/></div>
 
 <!-- more -->
 
